@@ -120,11 +120,11 @@ When adding operations to the file you can choose between:
 5. Create new Pull Request
 
 ## License
-Copyright Â© 2015 [Runtime Revolution](http://www.runtime-revolution.com), released under the MIT license.
+Copyright © 2015 [Runtime Revolution](http://www.runtime-revolution.com), released under the MIT license.
 
 ## About Runtime Revolution
 
 ![Runtime Revolution](http://webpublishing.s3.amazonaws.com/runtime_small_logo.png)
 
-I is maintained by [Runtime Revolution](http://www.runtime-revolution.com).
+PS2Format is maintained by [Runtime Revolution](http://www.runtime-revolution.com).
 See our [other projects](https://github.com/runtimerevolution/) and check out our [blog](http://www.runtime-revolution.com/runtime/blog) for the latest updates.
