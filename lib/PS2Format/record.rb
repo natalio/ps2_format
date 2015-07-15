@@ -38,6 +38,10 @@ module PS2Format
       not(valid?)
     end
 
+    def format
+      metadata.format
+    end
+
     def ordering_nib
       metadata.ordering_nib
     end
