@@ -95,7 +95,7 @@ The types of service can be used like
 
     $ PS2::OperationType.expense[:water]
     $ PS2::OperationType.income[:electricity]
-Full list available [here](https://github.com/runtimerevolution/ps2_format/lib/PS2/operation_type.rb)
+Full list available [here](https://github.com/runtimerevolution/ps2_format/blob/master/lib/PS2Format/operation_type.rb)
 
 ### Exceptions
 
@@ -120,11 +120,11 @@ When adding operations to the file you can choose between:
 5. Create new Pull Request
 
 ## License
-Copyright Â© 2015 [Runtime Revolution](http://www.runtime-revolution.com), released under the MIT license.
+Copyright © 2015 [Runtime Revolution](http://www.runtime-revolution.com), released under the MIT license.
 
 ## About Runtime Revolution
 
 ![Runtime Revolution](http://webpublishing.s3.amazonaws.com/runtime_small_logo.png)
 
-I is maintained by [Runtime Revolution](http://www.runtime-revolution.com).
+PS2Format is maintained by [Runtime Revolution](http://www.runtime-revolution.com).
 See our [other projects](https://github.com/runtimerevolution/) and check out our [blog](http://www.runtime-revolution.com/runtime/blog) for the latest updates.
