@@ -95,7 +95,7 @@ The types of service can be used like
 
     $ PS2::OperationType.expense[:water]
     $ PS2::OperationType.income[:electricity]
-Full list available [here](https://github.com/runtimerevolution/ps2_format/lib/PS2/operation_type.rb)
+Full list available [here](https://github.com/runtimerevolution/ps2_format/blob/master/lib/PS2Format/operation_type.rb)
 
 ### Exceptions
 
