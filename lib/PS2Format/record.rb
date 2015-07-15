@@ -1,7 +1,7 @@
 #coding: utf-8
 require 'ostruct'
 require 'delegate'
-require 'I18n'
+require 'i18n'
 
 module PS2Format
   # Compoents (Header, Operation and Footer) are validatable
