@@ -1,0 +1,24 @@
+#coding: utf-8
+"pt-PT":
+  ps2:
+    errors:
+      format: "Formato devia ser 'PS2' mas é %{value}"
+      nib: "NIB Inválido: %{error}"
+      record_type: "Tipo de registo devias ser %{should_be} mas é %{is}"
+      operation_type: "Tipo de operação não suportada: %{value}"
+      account_status: "Erro na sutação da conta: %{value}"
+      record_status: "Erro na sutação do registo: %{value}"
+      coin: "moeda deve ser 'EUR' mas é %{coin}"
+      date: "Data de operação inválida: %{value}"
+      reference: "O tamanha da referência do ordenantes devia ter 10 bytes mas tem %{size}"
+      filler: "Filler is misplaced or with wrong size"
+      line_size: "%{component}  devia ter 80 bytes mas tem: %{size}"
+      amount: "Importância inválida: %{amount}"
+      num_operations: "Número de operações inesperado: #{num_operations}"
+      total_amount: "Importância total inválida: #{total_amount}"
+
+    exceptions:
+      invalid_operation_type: "Tipo de operação inválida"
+      invalid_nib: "NIB inválido"
+      invalid_amount: "Montante introduziodo inválido"
+      invalid_reference: "Referência da empresa inválida"

@@ -1,0 +1,24 @@
+
+en:
+  ps2:
+    errors:
+      format: "format should be 'PS2' and is %{value}"
+      nib: "Invalid NIB: %{error}"
+      record_type: "record_type should be %{should_be} and is %{is}"
+      operation_type: "operation type is inconsistent: %{value}"
+      account_status: "unexpected account_status: %{value}"
+      record_status: "unexpected record_status: %{value}"
+      coin: "coin must be 'EUR' but is %{coin}"
+      date: "invalid date: %{value}"
+      reference: "reference size show be 10 but is %{size}"
+      filler: "filler is misplaced or with wrong size"
+      line_size: "%{component} header data should be 80 bytes long but is: %{size}"
+      amount: "invalid amount: %{amount}"
+      num_operations: "unexpected number of operations: #{num_operations}"
+      total_amount: "unexpected total amount: #{total_amount}"
+
+    exceptions:
+      invalid_operation_type: "Invalid operation type"
+      invalid_nib: "Invalid NIB"
+      invalid_amount: "Invalid amount"
+      invalid_reference: "Invalid company reference"
