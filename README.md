@@ -1,6 +1,6 @@
 # PS2
 
-[![Gem Version](https://badge.fury.io/rb/ps2_format.svg)](http://badge.fury.io/rb/ps2_format)
+[![Gem Version](https://badge.fury.io/rb/PS2Format.svg)](http://badge.fury.io/rb/PS2Format)
 [![Build Status](https://travis-ci.org/runtimerevolution/ps2_format.svg?branch=master)](https://travis-ci.org/runtimerevolution/ps2_format)
 [![Code Climate](https://codeclimate.com/github/runtimerevolution/ps2_format/badges/gpa.svg)](https://codeclimate.com/github/runtimerevolution/ps2_format)
 [![Dependency Status](https://gemnasium.com/runtimerevolution/ps2_format.svg)](https://gemnasium.com/runtimerevolution/ps2_format)

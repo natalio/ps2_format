@@ -1,6 +1,14 @@
 require 'test/unit'
 require 'ps2_format'
 
+require 'simplecov'
+require 'coveralls'
+Coveralls.wear!
+
+#setup simplecov
+SimpleCov.start
+
+
 class Ps2Test < Test::Unit::TestCase
 
   # Called before every test method runs. Can be used
