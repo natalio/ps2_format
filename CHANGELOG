@@ -1,7 +1,11 @@
+1.0.x
+
+    * added test coverage reporting
+
 1.0.1
 
     * published to Rubygems
 
 1.0.0
 
-    * Public version
+    * Public version (removed)
